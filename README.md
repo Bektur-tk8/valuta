@@ -1,9 +1,9 @@
 How To Use
 
-#Clone this repository
+# Clone this repository
 $ git clone https://github.com/Bektur-tk8/valuta.git
 
-#Go into the repository
+# Go into the repository
 $ cd val_parser
 
 # Install and activate venv
